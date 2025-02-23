@@ -1,5 +1,5 @@
-Wazuh 4.9 Single-Node Setup Automation
-Automate the deployment of a robust, single-node Wazuh 4.9 environment with ease! This script handles the heavy lifting, setting up Wazuh’s powerful security monitoring and threat detection system with SSL encryption, customized configurations, and seamless service initialization. Perfect for security teams looking to quickly deploy a fully functional Wazuh instance on a single node.
+Wazuh 4.x Single-Node Setup Automation
+Automate the deployment of a robust, single-node Wazuh 4.x environment with ease! This script handles the heavy lifting, setting up Wazuh’s powerful security monitoring and threat detection system with SSL encryption, customized configurations, and seamless service initialization. Perfect for security teams looking to quickly deploy a fully functional Wazuh instance on a single node.
 
 Features 🚀
 Effortless SSL Certificate Generation
